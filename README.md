@@ -52,10 +52,10 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![alt text](<image/Screenshot (10).png>)
+![alt text](<image/Screenshot (11).png>)
+![alt text](<image/Screenshot (14).png>)
+![alt text](<image/Screenshot (15).png>)
 ## Authors
 
 - [@prithvirajbaral](https://www.github.com/prithvirajbaral)
