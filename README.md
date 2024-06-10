@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# NewsLight
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to NewsLight! This project is a dynamic news application that fetches and displays the latest news from various sources using the NewsAPI.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+NewsLight is designed to provide users with quick access to current events from various news sources. It leverages the power of React.js to create a responsive and engaging user experience. Users can stay updated with the latest news across different categories such as Business, Sports, Entertainment, Technology, Health, and more.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- **Real-Time News:** Fetches the latest news articles from NewsAPI.
+- **Category Filtering:** Users can filter news by categories like Business, Sports, Entertainment, Technology, Health, etc.
+- **Search Functionality:** Allows users to search for news articles by keywords.
+- **Responsive Design:** Optimized for various screen sizes and devices.
+- **Interactive Elements:** Smooth transitions and user-friendly interface.
+- **Multiple Sources:** Aggregates news from a variety of trusted sources.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- **HTML5:** Structure and content of the website.
+- **CSS3:** Styling and layout.
+- **JavaScript:** Interactive elements and dynamic content.
+- **React.js:** Building user interfaces.
+- **NewsAPI:** Fetching news articles from various sources.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this project locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/prithvirajbaral/NewsLight.git
 
-### `npm run eject`
+2. **Navigate to the project directory**
+   ```bash
+   cd newslamo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. **Install dependencies**
+   ```bash
+   npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Get Your **NewsAPI** key: Sign up at NewsAPI and get your API key.Create a **.env** file in the root directory and add your API key
+   ```bash
+   REACT_APP_NEWS_API_KEY=your_news_api_key
+    
+5. **Start the development server**
+   ```bash
+   npm start
+6. Open your browser and navigate to http://localhost:3000 to see the application running.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-## Learn More
+## Authors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@prithvirajbaral](https://www.github.com/prithvirajbaral)
